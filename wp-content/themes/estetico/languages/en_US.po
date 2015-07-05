@@ -1,0 +1,2488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Estetico\n"
+"POT-Creation-Date: 2015-05-18 19:30+0200\n"
+"PO-Revision-Date: 2015-05-18 19:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: Unifato <avreon@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/denchev/Work/Themeforest/Estetico/wordpress/wp-"
+"content/themes/estetico/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "404 page"
+msgstr ""
+
+#: agencies.php:55 agents.php:53
+msgid "phone"
+msgstr ""
+
+#: agencies.php:108
+msgid "View all agents"
+msgstr ""
+
+#: agencies.php:117
+msgid "There are no agencies."
+msgstr ""
+
+#: agents.php:93 bootstrap/custom-metaboxes.php:29
+msgid "Languages"
+msgstr ""
+
+#: agents.php:96
+msgid "View properties listed by this agent"
+msgstr ""
+
+#: agents.php:105
+msgid "There are no agents."
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:25
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:180
+msgid "Archives"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:10
+msgid "Galleries per row"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:11
+msgid "Galleries to display"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:15
+msgid "Default agency"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:16 bootstrap/custom-metaboxes.php:48
+msgid "Address"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:17 bootstrap/custom-metaboxes.php:22
+#: contacts.php:121
+msgid "Phone"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:18 bootstrap/custom-metaboxes.php:23
+msgid "Email"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:24
+msgid "Website"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:25 bootstrap/custom-post-types.php:51
+msgid "Agency"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:25
+msgid "Choose an agency"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:26
+msgid "Twitter"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:27
+msgid "Facebook"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:28
+msgid "Google Plus"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:30
+msgid "Default agent"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:31
+msgid "Enable direct agent contact"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:31
+msgid "\"Neighter\" is when you don't want to sell or rent the property"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:31
+msgid "Use global option"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:31 bootstrap/custom-shortcodes.php:578
+#: bootstrap/smof/functions/functions.options.php:250
+#: bootstrap/smof/functions/functions.options.php:265
+#: bootstrap/smof/functions/functions.options.php:273
+#: bootstrap/smof/functions/functions.options.php:281
+#: bootstrap/smof/functions/functions.options.php:426
+#: bootstrap/smof/functions/functions.options.php:549
+#: bootstrap/smof/functions/functions.options.php:816
+#: bootstrap/smof/functions/functions.options.php:841
+#: bootstrap/smof/functions/functions.options.php:1129
+#: bootstrap/smof/functions/functions.options.php:1185
+#: bootstrap/smof/functions/functions.options.php:1193
+#: components/widgets/properties_filter.php:292 content-properties.php:185
+#: content-properties.php:196 functions.php:392
+msgid "Yes"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:31
+#: bootstrap/smof/functions/functions.options.php:250
+#: bootstrap/smof/functions/functions.options.php:265
+#: bootstrap/smof/functions/functions.options.php:273
+#: bootstrap/smof/functions/functions.options.php:281
+#: bootstrap/smof/functions/functions.options.php:426
+#: bootstrap/smof/functions/functions.options.php:549
+#: bootstrap/smof/functions/functions.options.php:816
+#: bootstrap/smof/functions/functions.options.php:841
+#: bootstrap/smof/functions/functions.options.php:1129
+#: bootstrap/smof/functions/functions.options.php:1185
+#: bootstrap/smof/functions/functions.options.php:1193
+#: components/widgets/properties_filter.php:295 functions.php:393
+msgid "No"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:35
+msgid "Number of beds"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:36
+#: bootstrap/smof/functions/functions.options.php:1170
+#: components/widgets/properties_filter.php:91
+msgid "Year built"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:37 bootstrap/custom-shortcodes.php:602
+#: bootstrap/smof/functions/functions.options.php:1146
+#: bootstrap/smof/functions/functions.options.php:1159
+#: components/widgets/properties_filter.php:33 functions.php:401
+msgid "For sale or rent"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:37 bootstrap/custom-shortcodes.php:603
+#: components/widgets/properties_filter.php:35 functions.php:402
+msgid "Sale"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:37 bootstrap/custom-shortcodes.php:603
+#: components/widgets/properties_filter.php:38 functions.php:403
+msgid "Rent"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:37
+#: components/widgets/properties_filter.php:41 functions.php:404
+msgid "Both"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:37
+msgid "Neither"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:38 bootstrap/custom-post-types.php:31
+msgid "Agent"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:38
+msgid "Choose an agent"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:39
+#: bootstrap/smof/functions/functions.options.php:374
+#: bootstrap/smof/functions/functions.options.php:1164 functions.php:843
+msgid "Price"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:40
+msgid "Price rent (PCM)"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:41
+msgid "Price rent (PW)"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:42 bootstrap/custom-shortcodes.php:577
+#: bootstrap/smof/functions/functions.options.php:1147
+#: bootstrap/smof/functions/functions.options.php:1168
+#: components/widgets/properties_filter.php:290 content-properties.php:184
+#: functions.php:391
+msgid "Pets allowed"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:43
+msgid "What pets are allowed"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:45
+msgid "Area (sq. ft or sq. meters)"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:46
+#: bootstrap/smof/functions/functions.options.php:1140
+#: bootstrap/smof/functions/functions.options.php:1165
+#: components/common/offer_grid.php:28 components/common/offer_list.php:29
+#: components/widgets/properties_filter.php:230 content-properties.php:166
+#: functions.php:844
+msgid "Bedrooms"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:47
+#: bootstrap/smof/functions/functions.options.php:1141
+#: bootstrap/smof/functions/functions.options.php:1166
+#: components/common/offer_grid.php:35 components/common/offer_list.php:34
+#: components/widgets/properties_filter.php:250 content-properties.php:172
+msgid "Bathrooms"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:48
+msgid ""
+"Please use the other address fields to set the address so that you can take "
+"advantage of all available filtering options. This field is just for "
+"backward compatibility and will be removed in the near future."
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:49 bootstrap/custom-shortcodes.php:596
+#: bootstrap/smof/functions/functions.options.php:1144
+#: bootstrap/smof/functions/functions.options.php:1158
+#: components/widgets/properties_filter.php:53
+msgid "City"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:50
+msgid "Country"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:51
+msgid "Street address"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:52
+msgid "Street number"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:53
+msgid "Floor"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:54
+msgid "Apartment number"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:55
+msgid "State"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:56
+msgid "County"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:57
+msgid "Postal code"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:58 bootstrap/custom-shortcodes.php:609
+msgid "Latitude"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:58
+msgid ""
+"Fill other address fields for better accuracy if you don't know the latitude."
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:59 bootstrap/custom-shortcodes.php:614
+msgid "Longitude"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:59
+msgid ""
+"Fill other address fields for better accuracy if you don't know the "
+"longitude."
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:60
+msgid "Adjust Street View point of view"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:61 bootstrap/custom-widgets.php:534
+#: components/common/offer_grid.php:13 components/common/offer_list.php:20
+#: functions.php:845
+msgid "Featured"
+msgstr ""
+
+#: bootstrap/custom-metaboxes.php:62
+msgid "View count"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:9 bootstrap/custom-post-types.php:10
+#: bootstrap/custom-shortcodes.php:249 functions.php:624
+msgid "FAQ"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:11
+msgid "All FAQ"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:30
+#: bootstrap/smof/functions/functions.options.php:106 functions.php:622
+msgid "Agents"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:32
+msgid "All agents"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:50 functions.php:621
+msgid "Agencies"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:52
+msgid "All agencies"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:70 bootstrap/custom-shortcodes.php:520
+#: bootstrap/smof/functions/functions.options.php:141
+msgid "Properties"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:71
+msgid "Property"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:72
+msgid "All properties"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:91 bootstrap/custom-shortcodes.php:257
+#: functions.php:623
+msgid "Testimonials"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:92
+msgid "Testimonial"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:93
+msgid "All testimonials"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:113 bootstrap/custom-post-types.php:114
+msgid "Gallery"
+msgstr ""
+
+#: bootstrap/custom-post-types.php:115
+msgid "All Galleries"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:24
+msgid "Read more"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:100
+msgid "Browse by map"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:108
+msgid "Great offers for this month"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:242
+msgid "Select an existing page"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:251 bootstrap/custom-shortcodes.php:259
+#: bootstrap/custom-shortcodes.php:275 bootstrap/custom-shortcodes.php:283
+#: bootstrap/custom-shortcodes.php:298 bootstrap/custom-shortcodes.php:313
+#: bootstrap/custom-shortcodes.php:328 bootstrap/custom-shortcodes.php:360
+#: bootstrap/custom-shortcodes.php:429 bootstrap/custom-shortcodes.php:522
+msgid "Estetico"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:264 bootstrap/custom-shortcodes.php:528
+#: bootstrap/smof/functions/functions.options.php:188
+#: components/common/properties.php:58 components/properties.php:20
+msgid "List"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:264 bootstrap/custom-shortcodes.php:528
+msgid "Carousel"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:265 bootstrap/custom-shortcodes.php:345
+#: bootstrap/custom-shortcodes.php:527
+msgid "Style"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:273
+msgid "Separator"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:281
+msgid "Separator with title"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:288 bootstrap/custom-shortcodes.php:406
+#: bootstrap/custom-shortcodes.php:458
+msgid "Title"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:296
+msgid "Properties map"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:303
+msgid "Map title"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:311
+msgid "Properties carousel"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:318
+msgid "Carousel title"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:326 bootstrap/custom-shortcodes.php:333
+#: contacts.php:133
+msgid "Message"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:337 bootstrap/custom-shortcodes.php:584
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1386
+#: bootstrap/smof/functions/functions.options.php:1138
+#: bootstrap/smof/functions/functions.options.php:1160
+#: components/widgets/properties_filter.php:111
+msgid "Type"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:340
+msgid "Info"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:340
+msgid "Error"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:340
+msgid "Success"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:340
+msgid "Warning"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:341
+msgid "Choose what kind of visual feedback the massage should have."
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:348
+msgid "Box"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:348
+msgid "Dashed"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:349
+msgid "Choose the style of the message."
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:357
+msgid "Vision"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:369 bootstrap/custom-shortcodes.php:438
+msgid "Content pull"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:372
+msgid ""
+"What data to use. Caution! If you pick \"Current Pages\" and then a specific "
+"page and use any of the fields below they will overwrite the page ones."
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:379 bootstrap/custom-shortcodes.php:448
+msgid "Page"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:382 bootstrap/custom-shortcodes.php:451
+msgid "Choose from your existing pages."
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:387
+msgid "Icon"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:390
+msgid "No icon"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:390
+msgid "House"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:390
+#: bootstrap/smof/functions/functions.options.php:1161
+#: components/widgets/properties_filter.php:167 content-properties.php:204
+msgid "Location"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:391
+msgid "Choose a vision icon"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:399
+msgid ""
+"If you cannot find a suitable icon you can upload your own. This will "
+"overwrite preset icon. Icon will be resized to 70 x 70."
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:415 bootstrap/custom-shortcodes.php:467
+msgid "Content"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:426
+msgid "Card"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:440
+msgid "Select a content pull type"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:440
+msgid "Current pages"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:440
+msgid "Manual type-in"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:441
+msgid "Location of data"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:461
+msgid "Page title"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:470 bootstrap/custom-shortcodes.php:479
+#: bootstrap/custom-shortcodes.php:488 bootstrap/custom-shortcodes.php:497
+msgid "Page content"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:476
+msgid "Image"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:485
+msgid "Read more button"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:494
+msgid "Read more button link"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:528
+#: bootstrap/smof/functions/functions.options.php:188
+#: components/common/properties.php:42 components/properties.php:19
+msgid "Grid"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:528 components/common/properties.php:43
+#: components/common/properties.php:59 components/properties.php:21
+msgid "Map"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:528
+msgid "List + Map"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:528
+msgid "Grid + Map"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:529
+msgid "Choose the style your properties will be visualized to the visitors"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:534 components/properties.php:26
+msgid "Sort by"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535
+msgid "None"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535 components/properties.php:27
+msgid "Price (low to high)"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535 components/properties.php:28
+msgid "Price (high to low)"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535 components/properties.php:29
+msgid "View count (low to high)"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535 components/properties.php:30
+msgid "View count (high to low)"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535
+msgid "Date (low to high)"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:535
+msgid "Date (high to low)"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:536
+msgid "Choose how to sort properties"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:541
+msgid "Price minimum"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:546
+msgid "Price maximum"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:551
+msgid "Bedrooms minimum"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:556
+msgid "Bedrooms maximum"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:561
+msgid "Bathrooms minimum"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:566
+msgid "Bathrooms maximum"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:571
+#: components/widgets/properties_filter.php:270
+msgid "Sq. feet"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:572
+msgid "Will display properties will area equal or larger than this value"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:579
+msgid "Will show properties that have either pets allowed or not."
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:590
+#: bootstrap/smof/functions/functions.options.php:1145
+#: bootstrap/smof/functions/functions.options.php:1169
+msgid "Feature"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:604
+msgid "If you don't choose an option both will be shown"
+msgstr ""
+
+#: bootstrap/custom-shortcodes.php:619
+#: bootstrap/smof/functions/functions.options.php:1162
+#: components/widgets/properties_filter.php:180
+msgid "Distance"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:12
+msgid "The most recent comments"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:13
+msgid "Recent Comments Extended"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:55
+msgid "Recent Comments"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:105 bootstrap/custom-widgets.php:225
+msgid "Title:"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:108
+msgid "Number of comments to show:"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:126
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:127
+msgid "Recent Posts Extended"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:152
+msgid "Recent Posts"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:228
+msgid "Number of posts to show:"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:232
+msgid "Display post date?"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:235
+msgid "Display post thumbnail?"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:247
+msgid "Properties filter"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:399
+msgid ""
+"This is just a placeholder. Please go to \"Appearance -> Theme options -> "
+"Search settings\" to configure fiilters."
+msgstr ""
+
+#: bootstrap/custom-widgets.php:411
+msgid "Agent details"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:439 bootstrap/custom-widgets.php:479
+#: content-properties.php:138
+msgid "Description"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:457
+#: bootstrap/smof/functions/functions.options.php:1117
+msgid "Quick search"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:497
+msgid "Properties listing"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:522
+msgid "Listing title"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:526
+msgid "Box listing title"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:532
+msgid "Listing type"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:535
+msgid "Related"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:536
+msgid "Newest"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:537
+msgid "Most viewed"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:547
+msgid "Order"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:549
+msgid "Default"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:550
+msgid "Random"
+msgstr ""
+
+#: bootstrap/custom-widgets.php:560
+msgid "Items count"
+msgstr ""
+
+#: bootstrap/inc/classes/agent.class.php:180
+msgid "Contact message about a property"
+msgstr ""
+
+#: bootstrap/inc/classes/property.class.php:281
+#, php-format
+msgid "%s PCM"
+msgstr ""
+
+#: bootstrap/inc/classes/property.class.php:284
+#, php-format
+msgid "%s PW"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:175
+msgid "Browse:"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:176
+msgid "Home"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:177
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:178
+msgid "404 Not Found"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:179
+#, php-format
+msgid "Page %d"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:181
+msgid "g:i a"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:182
+#, php-format
+msgid "Minute %d"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:183
+msgid "g a"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:184
+msgid "d"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:185
+#, php-format
+msgid "Week %d"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:186
+msgid "F"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:187
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1027
+msgid "Y"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1122
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1158
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1175
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1206
+#: content-properties.php:292 content.php:40 page.php:34 template-full.php:31
+#: template-home.php:29
+msgid "Edit"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1150
+msgid "Split"
+msgstr ""
+
+#: bootstrap/inc/vendor/breadcrumb-trail/inc/breadcrumbs.php:1154
+msgid "Merge"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:177
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1952
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:536
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2169
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1171
+msgid "Private Repository"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1174
+msgid "Pre-Packaged"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1179
+msgid "WordPress Repository"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1182
+msgid "Required"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1182
+msgid "Recommended"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1185
+msgid "Not Installed"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1187
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1292
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1405
+msgid "Install"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1316
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1406
+msgid "Activate"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1368
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1384
+msgid "Plugin"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1385
+msgid "Source"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1387
+msgid "Status"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1935
+msgid "Install package not available."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1936
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1937
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1938
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1939
+msgid "Plugin install failed."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1940
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:1951
+msgid "Plugin activation failed."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2066
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2075
+msgid "Show Details"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2066
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2075
+msgid "Hide Details"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2067
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2072
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2076
+msgid "All installations have been completed."
+msgstr ""
+
+#: bootstrap/inc/vendor/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bootstrap/smof/classes/class.options_machine.php:303
+msgid "Reset skin colors"
+msgstr ""
+
+#: bootstrap/smof/classes/class.options_machine.php:729
+msgid "Last Backup : "
+msgstr ""
+
+#: bootstrap/smof/front-end/options.php:43
+#: bootstrap/smof/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: bootstrap/smof/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:110
+msgid "Enable direct agents contact"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:111
+msgid ""
+"Enable direct contact form with your agents on a global level. You can "
+"enable/disable this option per agent bases if you edit the specific agent "
+"profile."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:117
+msgid "Message subject"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:118
+msgid "The subject of the email received by the agent."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:124
+msgid "Message format"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:125
+msgid ""
+"Available short tags: %property_name%, %property_link%, %person_name%, "
+"%person_phone%, %person_email%, %agent_name%, %person_message%"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:127
+msgid ""
+"Hello %agent_name%,\n"
+"\n"
+"Somebody named %person_name% wants to contact you about property "
+"%property_name% (%property_link%).\n"
+"\n"
+"Theirs contact details are:\n"
+"Name: %person_name%\n"
+"Phone: %person_phone%\n"
+"Email: %person_email%\n"
+"\n"
+"Message: %person_message%"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:145
+msgid "Enable schema.org"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:146
+msgid ""
+"Add <a href=\"http://www.schema.org/\" target=\"_blank\">schema.org</a> "
+"support to improve properties SEO for major seach engines like Google, Bing "
+"and Yahoo."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:152
+msgid "WPML properties"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:153
+msgid ""
+"How to handle missing properties translation if WPML plugin is installed"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:157
+msgid "Always show original"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:157
+msgid "Show localized copy if exists"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:160
+msgid "Main properties page"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:161
+msgid "Defines the page where properties will be listed. Select only one."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:167
+msgid "Main agents page"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:168
+msgid ""
+"The agencies page will go to this page to filter the agents. It should have "
+"a valid Agents template."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:174
+msgid "Property address format"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:175
+msgid ""
+"Sets the default address format. Available parameters:<br>\n"
+"\t\t\t\t\t\t\t%street_address%, %street_number%, %city%, %state%, %county%, "
+"%floor%, %country%, %postal_code%, %apartment_number%<br><br>You can use "
+"conditional state \n"
+"\t\t\t\t\t\t\tif you want to eliminate gaps in the output format."
+"<br><br>Usage:<br><strong>[if %street_address%], %street_adress%[/if]</"
+"strong><br><br>or<br><br><strong>[if %street_address%], %street_number%[/"
+"if]</strong>"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:183
+msgid "Default properties listing type"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:184
+msgid "List or Grid layout"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:191
+msgid "Properties not found text"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:192
+msgid ""
+"Text customer will see this if no properties are found according to their "
+"criteria."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:194
+msgid "There are no properties found."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:199
+msgid "Google Maps API key"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:200
+msgid ""
+"Enter your Google Maps API key. Google allows FREE usage up to 25 000 loads "
+"per day. If your site exceeds it, you need to apply for Business license.\n"
+"\t\t\t\t\t\t<br><br>If you don't have one, visit <a target=\"_blank\" href="
+"\"https://developers.google.com/maps/documentation/javascript/"
+"tutorial#api_key\">Google Maps API page</a> for more information."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:207
+msgid "Google Maps API server key"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:208
+msgid ""
+"Enter your Google Maps API server key. This key will be used to give your "
+"customer better Google Maps services like geo location auto suggestion. \n"
+"\t\t\t\t\t\t\tGoogle allows up to 2 500 calls per day. If your site is "
+"exceeding this quota you need to apply for Business license.\n"
+"\t\t\t\t\t\t\t<br><br>If you don't have such, visit <a target=\"_blank\" "
+"href=\"https://developers.google.com/maps/documentation/javascript/"
+"tutorial#api_key\">Google Maps API page</a> for more information."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:216
+msgid "Distances"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:217
+msgid ""
+"A list of comma separated numbers that represent distances of properties in "
+"that radius, available for search options."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:223
+msgid "Default distance"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:224
+msgid ""
+"If the customer has chosen a location to search for, but without distance "
+"within it, this is the default one."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:230
+msgid "Properties per page"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:237
+msgid "Measuring units"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:238
+msgid "US or Metric"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:242
+msgid "Metric"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:242
+msgid "US"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:245
+msgid "Use property address field"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:246
+msgid ""
+"Since theme update to version 1.1, the address field is no longer active. If "
+"you have properties before version 1.1, you can leave this option to \"yes"
+"\". In that case, you will not be able to take full advantage of the new "
+"address fields. "
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:253
+msgid "Type of pets available"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:254
+msgid "List of the pets allowed in the property. Write each type on new line."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:260
+msgid "Mark featured items"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:261
+msgid ""
+"Show a flag on each featured item when items are displayed in a list or grid "
+"view mode."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:268
+msgid "Show \"Recently viewed\" block"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:269
+msgid "Show a block of properties that are recently viewed by the customer."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:276
+msgid "Show \"Other people also viewed\" block"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:277
+msgid "Show a block of properties that are also viewed by other customers."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:284
+msgid "Property details gallery delay"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:285
+msgid ""
+"The seconds to wait before the next image appears. Anything but 0 will start "
+"an auto slideshow."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:291
+msgid "Properties images"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:294
+msgid ""
+"<h3 style=\"margin: 0 0 10px;\">Properties images.</h3>\n"
+"\t\t\t\t\t\tThis section is to help you upload images faster - straight from "
+"your camera, without burdening vistors with the download of huge photos. You "
+"can setup all required photo formats. \n"
+"\t\t\t\t\t\t<br><br>Please, have in mind that if you change any of the thumb "
+"settings, you have to regenerate all thumbnails. \n"
+"\t\t\t\t\t\tYou can install <a href=\"http://wordpress.org/plugins/force-"
+"regenerate-thumbnails/\" target=\"_blank\">Force regenerate thumbnails</a> "
+"plugin."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:302
+msgid "Gallery thumbnail width"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:309
+msgid "Gallery thumbnail height"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:316
+msgid "Featured thumbnail width"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:323
+msgid "Featured thumbnail height"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:330
+msgid "Carousel thumbnail width"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:337
+msgid "Carousel thumbnail height"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:344
+msgid "Gallery normal width"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:351
+msgid "Gallery normal height"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:358
+msgid "Property listing width"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:365
+msgid "Property listing height"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:378
+msgid "Currency"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:379
+msgid ""
+"Default currency for properties.<br>Popular currencies: &pound; &euro; $"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:385
+msgid "Currency ISO 4217 code"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:386
+msgid ""
+"Not a required field but if you enable schema.org it is good to provide the "
+"code here to make your search results more correct."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:392
+msgid "Thousands separator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:393
+#: bootstrap/smof/functions/functions.options.php:400
+msgid ""
+"Type \"<strong>s</strong>\" (without commas) if you'd like an empty space."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:399
+msgid "Decimal point"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:406
+msgid "Currency position"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:407
+msgid ""
+"Where the currency sign should stay. In front of (example: &pound; 12345) or "
+"after the end of ( 12345 &pound; ) number"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:411
+msgid "Front of number"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:411
+msgid "End of number"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:414
+msgid "Currency and number separator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:415
+msgid ""
+"The separator between the currency sign and the number.<br>Type \"<strong>s</"
+"strong>\" (without commas) if you'd like an empty space."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:421
+msgid "Show zeros after decimal for natural numbers"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:422
+msgid ""
+"If price is just a natural number show or hide .00 after it.<br>Example: "
+"555555 or 555555.00"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:430
+msgid "Social media"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:435
+msgid "Please enter your Facebook identificator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:442
+msgid "Please enter your Twitter identificator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:449
+msgid "Please enter your Youtube identificator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:456
+msgid "Please enter your Google Plus identificator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:463
+msgid "Please enter your Pinterest identificator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:470
+msgid "Please enter your <strong>full</strong> LinkedIn url address"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:477
+msgid "Contacts"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:481
+msgid "Send form to email"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:482
+msgid ""
+"Enter the email address to which you want to recieve the contact form's "
+"data. If it is left empty, the administrator's email will be used."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:488
+msgid "Office address"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:489
+msgid "Your office address."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:495
+msgid "Phone 1"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:496
+#: bootstrap/smof/functions/functions.options.php:503
+msgid "The phone number to contact."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:502
+msgid "Phone 2"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:509
+msgid "Email 1"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:510
+#: bootstrap/smof/functions/functions.options.php:517
+msgid "The email to contact. It will be public (visible)."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:516
+msgid "Email 2"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:523
+msgid "Contact form subject"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:524
+msgid "The subject of the email"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:530
+msgid "Contact form e-mail format"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:531
+msgid ""
+"You can create your own message by using these placeholders: %first_name%, "
+"%last_name%, %phone%, %email%, %ip%, %message%"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:537
+msgid "Contact form success message"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:538
+msgid "The customer will see this after sending the form successfully."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:544
+msgid "Enable reCAPTCHA"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:545
+msgid ""
+"Enable reCAPTCHA service to protect all your contact forms from spammers."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:552
+msgid "reCAPTCHA public key"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:553
+msgid ""
+"Enter your public key generated from <a href='http://recaptcha.net/' "
+"target='_blank'>http://recaptcha.net/‎</a>‎"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:559
+msgid "reCAPTCHA private key"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:560
+msgid ""
+"Enter your private key generated from <a href='http://recaptcha.net/' "
+"target='_blank'>http://recaptcha.net/‎</a>‎"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:566
+msgid "reCAPTCHA theme name"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:567
+msgid ""
+"reCAPTACHA allows you to use a specific theme. You can see the available "
+"options at <a href=\"https://developers.google.com/recaptcha/docs/"
+"customization\" target=\"_blank\">https://developers.google.com/recaptcha/"
+"docs/customization</a>‎"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:571
+msgid "Red"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:571
+msgid "White"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:571
+msgid "Blackglass"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:571
+msgid "Clean"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:575
+msgid "General"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:579
+msgid "Quick search heading"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:580
+msgid "The heading text for the quick search component"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:582
+msgid "Find your dream home today"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:586
+msgid "Enable footer middle section"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:587
+msgid ""
+"By default the footer has three sections. This checkbox controls the middle "
+"section."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:593
+msgid "Middle section title"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:594
+#: bootstrap/smof/functions/functions.options.php:623
+msgid "The title that will appear on top of the description."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:600
+msgid "Middle section text"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:601
+msgid "The footer's middle column free text"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:607
+msgid "Middle section read more link"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:608
+msgid "A link address the customer can go to."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:614
+msgid "Middle section read more text"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:615
+msgid "A custom link name. \"Read more\" is fine."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:622
+msgid "Social links title"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:625
+msgid "You can find us also"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:630
+msgid "Social links description"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:631
+msgid "Describes what customers will get if they go to the social links."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:633
+msgid "Check our awesome domestic cats in Facebook or Twitter"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:637
+msgid "404 page text"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:638
+msgid "The text the customers will see when Not found page appears."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:640
+msgid "The think you are looking for cannot be found."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:644
+msgid "404 page jump to links"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:645
+msgid "List the pages your customers can choose to go to from the 404 page"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:652
+msgid "Styling"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:658
+msgid "Pick one of the predefined colour skins."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:659
+#: bootstrap/smof/functions/functions.options.php:671
+msgid "Yellow"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:660
+#: bootstrap/smof/functions/functions.options.php:671
+msgid "Green"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:661
+#: bootstrap/smof/functions/functions.options.php:671
+msgid "Orange"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:662
+#: bootstrap/smof/functions/functions.options.php:671
+msgid "Ocean"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:663
+#: bootstrap/smof/functions/functions.options.php:671
+msgid "Forest"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:666 header_demo.php:43
+msgid "Colour skin"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:674
+msgid "Header configuration"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:675
+msgid ""
+"Choose header configuration from 4 different configurations. Keep in mind "
+"that Revolution slider goes hand in hand with Quick search. See \"Flat "
+"header image\" option below for float image upload."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:679
+msgid "Homepage: Revolution slider, Inner pages: flat image"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:680
+msgid "Homepage: flat header, Inner page: flat image"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:681
+msgid "Homepage: Revolution slider, Inner pages: Revolution slider"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:682
+msgid "Homepage: flat image, Inner pages: Revolution slider"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:686
+msgid "Revolution slider ID"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:687
+msgid "Set the ID of the Revolution slider you want to use."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:693
+msgid "Sidebar position"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:694
+msgid "Switch the sidebar and the mainbar positions."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:698
+msgid "Left"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:698
+msgid "Right"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:701
+msgid "Sidebar position on mobile"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:702
+msgid ""
+"The position of the sidebar when the site is visited on a mobile device - "
+"before or after the main content."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:706
+msgid "Before"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:706
+msgid "After"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:757
+msgid "System Fonts and Google Fonts Mixed"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:758
+msgid "Google fonts mixed with system fonts."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:767
+msgid "Flat header image"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:768
+msgid "940x220 image for inner pages. Image will be auto cropped."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:774
+msgid "Logo"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:775
+msgid "Upload your company's logo"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:781
+#: bootstrap/smof/functions/functions.options.php:1083
+msgid "Background"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:782
+msgid "Upload a pattern or image for your main background."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:788
+msgid "Background repeat"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:789
+#: bootstrap/smof/functions/functions.options.php:804
+msgid "Choose the \"repeat\" option if you want your pattern to repeat"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:793
+#: bootstrap/smof/functions/functions.options.php:808
+msgid "Repeat"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:793
+#: bootstrap/smof/functions/functions.options.php:808
+msgid "No repeat"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:796
+msgid "Header background"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:797
+msgid "Upload a pattern or image for your header background."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:803
+msgid "Header background repeat"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:811
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:812
+msgid "Show/hide breadcrumbs on all pages."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:820
+msgid "Color scheme"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:831
+msgid ""
+"<strong>Important:</strong> If you have <strong>just</strong> changed the "
+"skin option, please refresh the page. After the refresh is done, please "
+"click the reset button to restore the original colours of the skin (if you "
+"have any previous changes). If you don't do that, the theme will still use "
+"the old colours."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:836
+msgid "Enable color overwrite"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:837
+msgid ""
+"The colours of the current skin will be overwritten by the ones you specify "
+"here"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:852
+msgid "Headings and top navigation hover style"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:867
+msgid "Links"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:882
+msgid "General buttons and top navigation buttons states."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:888
+#: bootstrap/smof/functions/functions.options.php:931
+#: bootstrap/smof/functions/functions.options.php:1023
+msgid "Background colour for old browsers"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:895
+#: bootstrap/smof/functions/functions.options.php:938
+#: bootstrap/smof/functions/functions.options.php:962
+#: bootstrap/smof/functions/functions.options.php:985
+#: bootstrap/smof/functions/functions.options.php:1031
+msgid "Gradient top colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:902
+#: bootstrap/smof/functions/functions.options.php:945
+#: bootstrap/smof/functions/functions.options.php:969
+#: bootstrap/smof/functions/functions.options.php:992
+#: bootstrap/smof/functions/functions.options.php:1038
+msgid "Gradient bottom colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:909
+msgid "Top navigation hover colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:916
+msgid "Top navigation sub level hover colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:925
+#: bootstrap/smof/functions/functions.options.php:955
+#: bootstrap/smof/functions/functions.options.php:978
+msgid "Other button styles"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1001
+msgid "Header background colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1017
+msgid "Quick search block"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1045
+msgid "Border"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1052
+msgid "Border bottom colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1061
+msgid "Sidebar navigation hover colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1077
+#: bootstrap/smof/functions/functions.options.php:1176
+msgid "Footer"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1090
+msgid "Columns separator"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1099
+msgid "Misc"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1105
+msgid "Icons main colour"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1112
+#: components/quick_search.php:54 components/widgets/quick_search.php:45
+msgid "Search"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1120
+msgid ""
+"<h3 style=\"margin: 0 0 10px;\">Quick search settings.</h3><p>You can set up "
+"to 10 search criterias.</p>"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1125
+msgid "Show quick search"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1126
+msgid ""
+"If you don't want a quick search box to stay over your beautiful revolution "
+"slider, you can turn it of."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1133
+msgid "Which components to use for Quick search"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1134
+msgid ""
+"Drag and drop components from the left column to the right one to set the "
+"kind of fields that will appear on the quick search form. You can also sort "
+"their order."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1139
+#: bootstrap/smof/functions/functions.options.php:1157
+#: components/widgets/properties_filter.php:72 content-properties.php:178
+#: functions.php:380
+msgid "Beds"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1142
+msgid "Min price"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1143
+msgid "Max price"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1152
+msgid "Which components to use for Properties filter"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1153
+msgid ""
+"Drag and drop components from the left column to the right one to set the "
+"kind of fields that will appear on the properties filter widget. You can "
+"also sort their order."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1163
+#: components/widgets/properties_filter.php:198
+msgid "Keywords"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1167
+msgid "Sq. Feet"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1180
+msgid "Enable footer"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1181
+msgid ""
+"If you don't need the footer section of the theme, you can hide it from here."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1188
+msgid "RSS Icon"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1189
+msgid ""
+"Show/hide the rss icon and its functionality. This does not turns off "
+"Wordpress RSS sharing. Just removes the icon from footer."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1197
+msgid "Copyright text"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1198
+msgid ""
+"The copyright text to appear at the very bottom of the page in the footer "
+"section."
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1204
+msgid "Free HTML"
+msgstr ""
+
+#: bootstrap/smof/functions/functions.options.php:1205
+msgid ""
+"Input custom text, html, css or JavaScript. This code will be placed between "
+"the main columns and the copyright text."
+msgstr ""
+
+#: category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:18
+msgid "Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:50 content-properties.php:156 content.php:39
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:51 components/widgets/agent.php:72 contacts.php:148
+msgid "Send"
+msgstr ""
+
+#: components/common/offer_grid.php:42 components/common/offer_list.php:39
+msgid "Sq Feet"
+msgstr ""
+
+#: components/common/offer_grid.php:47 header.php:50
+msgid "View details"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:12
+msgid "Show local:"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:14
+msgid "Hospitals"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:15
+msgid "Schools"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:16
+msgid "Sport activity"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:17
+msgid "Public transport"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:18
+msgid "Stores"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:19
+msgid "Places of worship"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:20
+msgid "Public services"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:21
+msgid "Eat and drink"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:22
+msgid "Entertainment"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:34
+msgid "Property for sale"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:35
+msgid "Property for rent"
+msgstr ""
+
+#: components/common/properties_view_map_pack.php:40
+msgid "View full screen map"
+msgstr ""
+
+#: components/properties.php:31
+msgid "Date added (low to high)"
+msgstr ""
+
+#: components/properties.php:32
+msgid "Date added (high to low)"
+msgstr ""
+
+#: components/quick_search.php:54
+msgid ""
+"Admin only: Check Theme settings -> Properties for how to set up the "
+"properties page"
+msgstr ""
+
+#: components/widgets/agent.php:35
+msgid "Contact the agent"
+msgstr ""
+
+#: components/widgets/agent.php:56
+msgid "Your name"
+msgstr ""
+
+#: components/widgets/agent.php:60
+msgid "Your e-mail"
+msgstr ""
+
+#: components/widgets/agent.php:64
+msgid "Your phone"
+msgstr ""
+
+#: components/widgets/agent.php:68
+msgid "Your message"
+msgstr ""
+
+#: components/widgets/properties_filter.php:139
+msgid "Features"
+msgstr ""
+
+#: components/widgets/properties_filter.php:168
+msgid "Type a start location"
+msgstr ""
+
+#: components/widgets/properties_filter.php:185
+#, php-format
+msgid "Within %d miles"
+msgstr ""
+
+#: components/widgets/properties_filter.php:210
+msgid "Price range"
+msgstr ""
+
+#: components/widgets/properties_filter.php:310
+msgid "Filter properties"
+msgstr ""
+
+#: components/widgets/properties_filter.php:312
+msgid "Reset all filters"
+msgstr ""
+
+#: components/widgets/quick_search.php:30
+msgid "Search for properties"
+msgstr ""
+
+#: contacts.php:91
+msgid "Your message was sent successfully."
+msgstr ""
+
+#: contacts.php:93
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: contacts.php:105
+msgid "First name"
+msgstr ""
+
+#: contacts.php:109
+msgid "Last name"
+msgstr ""
+
+#: contacts.php:125
+msgid "E-mail"
+msgstr ""
+
+#: contacts.php:155
+msgid "Contact info"
+msgstr ""
+
+#: contacts.php:185
+msgid "Office location"
+msgstr ""
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-properties.php:14 content.php:52 content.php:55
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-properties.php:50
+msgid "Message to our agent was sent successfuly."
+msgstr ""
+
+#: content-properties.php:52
+msgid ""
+"There was an error while trying to connect with our agent. Please try again "
+"later."
+msgstr ""
+
+#: content-properties.php:66
+msgid "Price for sale"
+msgstr ""
+
+#: content-properties.php:69 content-properties.php:72
+msgid "Price for rent"
+msgstr ""
+
+#: content-properties.php:149 content.php:53 page.php:30 template-full.php:27
+#: template-home.php:25
+msgid "Pages:"
+msgstr ""
+
+#: content-properties.php:156 content.php:39
+msgid "One comment so far"
+msgstr ""
+
+#: content-properties.php:156 content.php:39
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: content-properties.php:196
+#, php-format
+msgid "Show more properties with: %s"
+msgstr ""
+
+#: content-properties.php:210
+msgid "Google Map"
+msgstr ""
+
+#: content-properties.php:212
+msgid "Google Street View"
+msgstr ""
+
+#: content-properties.php:233
+msgid "Other people also viewed"
+msgstr ""
+
+#: content-properties.php:247
+msgid "Recently viewed"
+msgstr ""
+
+#: content.php:30
+msgid ", "
+msgstr ""
+
+#: functions.php:172
+msgid ""
+"You must setup a Properties page. You can do this from Appearance -> Theme "
+"options -> Properties settngs."
+msgstr ""
+
+#: functions.php:548
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:782 functions.php:810
+msgid "Find coordinates"
+msgstr ""
+
+#: functions.php:1057
+msgid "Unique features"
+msgstr ""
+
+#: functions.php:1058
+msgid "Property types"
+msgstr ""
+
+#: functions.php:1060
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:1061
+msgid "Footer Menu 1"
+msgstr ""
+
+#: functions.php:1062
+msgid "Footer Menu 2"
+msgstr ""
+
+#: functions.php:1065
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:1074
+msgid "Properties sidebar"
+msgstr ""
+
+#: functions.php:1083
+msgid "Property details sidebar"
+msgstr ""
+
+#: functions.php:1092
+msgid "Blog sidebar"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:19
+#, php-format
+msgid ""
+"We are sorry, but we don not yet support <strong>%s</strong> post format."
+msgstr ""
+
+#: tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:10
+#, php-format
+msgid "%s Archives"
+msgstr ""

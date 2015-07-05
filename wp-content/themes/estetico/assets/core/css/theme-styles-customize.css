@@ -1,0 +1,66 @@
+#theme-styles-customize {
+	position: fixed;
+	left: 0;
+	top: 20%;
+	background: #FFF;
+	width: 200px;
+	z-index: 1000;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, .5);
+	color: #000;
+}
+
+#theme-styles-customize.close {
+	margin-left: -200px;
+}
+
+#theme-styles-customize .collapse-handle {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	right: -30px;
+	top: 50%;
+	margin-top: -25px;
+	background: #ccc;
+	border-radius: 0 5px 5px 0;
+}
+
+#theme-styles-customize .collapse-handle:after {
+	content: "";
+	width: 7px;
+	height: 11px;
+	background: url(../img/icons.png) no-repeat -29px -822px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -5px;
+	margin-left: -4px;
+}
+
+#theme-styles-customize h4 {
+	background: #CCC;
+	color: #000;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 10px 0;
+	text-align: center;
+}
+
+#theme-styles-customize h5 {
+	font-size: 12px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-weight: normal;
+	border-bottom: 1px #CCC solid;
+	background: #f1f1f1;
+}
+
+#theme-styles-customize .input {
+	border-bottom: 1px #CCC solid;
+	text-align: center;
+	padding: 10px 0;
+}
+
+#theme-styles-customize select {
+	display: inline-block;
+}
